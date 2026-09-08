@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">2025年度 中学3年生の夏期成績推移</title>
+  <desc id="desc">2025年度の同一集団によるハレルノート生平均。Excel表示値では、5教科合計は103.4点から147.2点へ43.8点上昇。全模試受験者との平均点差は7月19日のマイナス11.3点から、8月6日のプラス13.3点、8月24日のプラス28.6点へ推移し、39.8点改善した。</desc>
+  <rect width="1200" height="720" rx="24" fill="#F7FBFD"/>
+  <text x="64" y="68" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="34" font-weight="700">夏の学びが、数字にも表れました</text>
+  <text x="64" y="104" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="17">2025年度 中学3年生・同一集団のハレルノート生平均／夏期期間の3回分</text>
+  <rect x="64" y="136" width="318" height="176" rx="18" fill="#FFFFFF" stroke="#CADCE4"/>
+  <text x="92" y="178" fill="#24556D" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">平均点差の改善</text>
+  <text x="92" y="247" fill="#006F99" font-family="Noto Sans JP, system-ui, sans-serif" font-size="62" font-weight="700">+39.8</text>
+  <text x="300" y="247" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="22" font-weight="700">点</text>
+  <text x="92" y="282" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="15">平均点自体も +43.8点</text>
+  <rect x="406" y="136" width="730" height="440" rx="18" fill="#FFFFFF" stroke="#CADCE4"/>
+  <text x="438" y="178" fill="#24556D" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">全模試受験者との平均点差（5教科合計）</text>
+  <line x1="486" y1="350" x2="1076" y2="350" stroke="#607580" stroke-width="2"/>
+  <text x="446" y="356" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="14">0点</text>
+  <line x1="540" y1="395" x2="770" y2="297" stroke="#006F99" stroke-width="7" stroke-linecap="round"/>
+  <line x1="770" y1="297" x2="1000" y2="236" stroke="#006F99" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="540" cy="395" r="12" fill="#FFFFFF" stroke="#006F99" stroke-width="7"/>
+  <circle cx="770" cy="297" r="12" fill="#FFFFFF" stroke="#006F99" stroke-width="7"/>
+  <circle cx="1000" cy="236" r="12" fill="#FFFFFF" stroke="#006F99" stroke-width="7"/>
+  <rect x="492" y="415" width="96" height="42" rx="21" fill="#FFF2EF"/>
+  <text x="540" y="443" text-anchor="middle" fill="#B42318" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">−11.3点</text>
+  <rect x="723" y="235" width="94" height="42" rx="21" fill="#DDF4FC"/>
+  <text x="770" y="263" text-anchor="middle" fill="#006F99" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">+13.3点</text>
+  <rect x="953" y="168" width="94" height="42" rx="21" fill="#DDF4FC"/>
+  <text x="1000" y="196" text-anchor="middle" fill="#006F99" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">+28.6点</text>
+  <text x="540" y="500" text-anchor="middle" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">7月19日</text>
+  <text x="770" y="500" text-anchor="middle" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">8月6日</text>
+  <text x="1000" y="500" text-anchor="middle" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">8月24日</text>
+  <text x="438" y="548" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="14">平均点差がマイナスからプラスへ転じ、その後も伸びました。</text>
+  <rect x="64" y="336" width="318" height="240" rx="18" fill="#DDF4FC"/>
+  <text x="92" y="378" fill="#24556D" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">ハレルノート生平均</text>
+  <text x="92" y="420" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16">7月19日</text><text x="344" y="420" text-anchor="end" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">103.4点</text>
+  <text x="92" y="462" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16">8月6日</text><text x="344" y="462" text-anchor="end" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">129.3点</text>
+  <text x="92" y="504" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16">8月24日</text><text x="344" y="504" text-anchor="end" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">147.2点</text>
+  <line x1="92" y1="526" x2="344" y2="526" stroke="#607580"/>
+  <text x="92" y="554" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16">期間中の増加</text><text x="344" y="554" text-anchor="end" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">+43.8点</text>
+  <text x="64" y="630" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">一人ひとりの「分かった」を積み重ねる。</text>
+  <text x="64" y="662" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="14">数値は同一集団の平均。個人の成績や成果を保証するものではありません。</text>
+  <text x="64" y="690" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13">出典：夏の成績の伸び.xlsx（受領原資料の表示値）</text>
+</svg>
