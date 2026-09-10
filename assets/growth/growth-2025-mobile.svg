@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="288" height="620" viewBox="0 0 288 620" role="img" aria-labelledby="title desc">
   <title id="title">2025年度 中学3年生の夏期成績推移</title>
   <desc id="desc">同一集団のハレルノート生平均。全模試受験者との平均点差はマイナス11.3点、プラス13.3点、プラス28.6点へ推移した。</desc>
-  <rect width="288" height="620" rx="18" fill="#F7FBFD"/>
-  <text x="16" y="31" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">夏の成績推移</text>
-  <text x="16" y="54" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">2025年度／中3・同一集団／3回分</text>
-  <rect x="12" y="70" width="264" height="86" rx="14" fill="#FFFFFF" stroke="#CADCE4"/>
-  <text x="28" y="94" fill="#24556D" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">平均点差の改善</text>
-  <text x="28" y="135" fill="#006F99" font-family="Noto Sans JP, system-ui, sans-serif" font-size="30" font-weight="700">+39.8点</text>
-  <text x="156" y="94" fill="#24556D" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">生徒平均の増加</text>
-  <text x="156" y="135" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="23" font-weight="700">+43.8点</text>
-  <rect x="12" y="170" width="264" height="310" rx="14" fill="#FFFFFF" stroke="#CADCE4"/>
-  <text x="24" y="197" fill="#24556D" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">全模試受験者との平均点差</text>
-  <line x1="34" y1="340" x2="258" y2="340" stroke="#607580" stroke-width="2"/>
-  <text x="22" y="335" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">0</text>
-  <line x1="56" y1="366" x2="144" y2="309" stroke="#006F99" stroke-width="5" stroke-linecap="round"/>
-  <line x1="144" y1="309" x2="232" y2="275" stroke="#006F99" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="56" cy="366" r="8" fill="#FFFFFF" stroke="#006F99" stroke-width="5"/>
-  <circle cx="144" cy="309" r="8" fill="#FFFFFF" stroke="#006F99" stroke-width="5"/>
-  <circle cx="232" cy="275" r="8" fill="#FFFFFF" stroke="#006F99" stroke-width="5"/>
+  <rect width="288" height="620" rx="18" fill="#F4FBFF"/>
+  <text x="16" y="31" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">夏の成績推移</text>
+  <text x="16" y="54" fill="#557484" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">2025年度／中3・同一集団／3回分</text>
+  <rect x="12" y="70" width="264" height="86" rx="14" fill="#FFFFFF" stroke="#BBDFF0"/>
+  <text x="28" y="94" fill="#004F73" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">平均点差の改善</text>
+  <text x="28" y="135" fill="#006699" font-family="Noto Sans JP, system-ui, sans-serif" font-size="30" font-weight="700">+39.8点</text>
+  <text x="156" y="94" fill="#004F73" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">生徒平均の増加</text>
+  <text x="156" y="135" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="23" font-weight="700">+43.8点</text>
+  <rect x="12" y="170" width="264" height="310" rx="14" fill="#FFFFFF" stroke="#BBDFF0"/>
+  <text x="24" y="197" fill="#004F73" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">全模試受験者との平均点差</text>
+  <line x1="34" y1="340" x2="258" y2="340" stroke="#557484" stroke-width="2"/>
+  <text x="22" y="335" fill="#557484" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">0</text>
+  <line x1="56" y1="366" x2="144" y2="309" stroke="#006699" stroke-width="5" stroke-linecap="round"/>
+  <line x1="144" y1="309" x2="232" y2="275" stroke="#006699" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="56" cy="366" r="8" fill="#FFFFFF" stroke="#006699" stroke-width="5"/>
+  <circle cx="144" cy="309" r="8" fill="#FFFFFF" stroke="#006699" stroke-width="5"/>
+  <circle cx="232" cy="275" r="8" fill="#FFFFFF" stroke="#006699" stroke-width="5"/>
   <rect x="21" y="383" width="70" height="30" rx="15" fill="#FFF2EF"/>
   <text x="56" y="403" text-anchor="middle" fill="#B42318" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">−11.3点</text>
-  <rect x="109" y="264" width="70" height="30" rx="15" fill="#DDF4FC"/>
-  <text x="144" y="284" text-anchor="middle" fill="#006F99" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">+13.3点</text>
-  <rect x="197" y="224" width="70" height="30" rx="15" fill="#DDF4FC"/>
-  <text x="232" y="244" text-anchor="middle" fill="#006F99" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">+28.6点</text>
-  <text x="56" y="446" text-anchor="middle" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">7/19</text>
-  <text x="144" y="446" text-anchor="middle" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">8/6</text>
-  <text x="232" y="446" text-anchor="middle" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">8/24</text>
-  <rect x="12" y="494" width="264" height="102" rx="14" fill="#DDF4FC"/>
-  <text x="28" y="520" fill="#24556D" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">ハレルノート生平均</text>
-  <text x="28" y="548" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">7/19</text><text x="74" y="548" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">103.4点</text>
-  <text x="28" y="576" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">8/6</text><text x="74" y="576" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">129.3点</text>
-  <text x="156" y="548" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">8/24</text><text x="206" y="548" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">147.2点</text>
-  <text x="156" y="576" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">増加</text><text x="206" y="576" fill="#153344" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">+43.8点</text>
-  <text x="144" y="612" text-anchor="middle" fill="#607580" font-family="Noto Sans JP, system-ui, sans-serif" font-size="11">受領Excelの表示値</text>
+  <rect x="109" y="264" width="70" height="30" rx="15" fill="#E5F7FF"/>
+  <text x="144" y="284" text-anchor="middle" fill="#006699" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">+13.3点</text>
+  <rect x="197" y="224" width="70" height="30" rx="15" fill="#E5F7FF"/>
+  <text x="232" y="244" text-anchor="middle" fill="#006699" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">+28.6点</text>
+  <text x="56" y="446" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">7/19</text>
+  <text x="144" y="446" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">8/6</text>
+  <text x="232" y="446" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">8/24</text>
+  <rect x="12" y="494" width="264" height="102" rx="14" fill="#E5F7FF"/>
+  <text x="28" y="520" fill="#004F73" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">ハレルノート生平均</text>
+  <text x="28" y="548" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">7/19</text><text x="74" y="548" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">103.4点</text>
+  <text x="28" y="576" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">8/6</text><text x="74" y="576" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">129.3点</text>
+  <text x="156" y="548" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">8/24</text><text x="206" y="548" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">147.2点</text>
+  <text x="156" y="576" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12">増加</text><text x="206" y="576" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="12" font-weight="700">+43.8点</text>
+  <text x="144" y="612" text-anchor="middle" fill="#557484" font-family="Noto Sans JP, system-ui, sans-serif" font-size="11">受領Excelの表示値</text>
 </svg>
