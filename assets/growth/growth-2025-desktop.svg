@@ -2,7 +2,6 @@
   <title id="title">2025年度 中学3年生の夏期成績推移</title>
   <desc id="desc">2025年度の同一集団によるハレルノート生平均。Excel表示値では、5教科合計は103.4点から147.2点へ43.8点上昇。全模試受験者との平均点差は7月19日のマイナス11.3点から、8月6日のプラス13.3点、8月24日のプラス28.6点へ推移し、39.8点改善した。</desc>
   <rect width="1200" height="720" rx="24" fill="#F4FBFF"/>
-  <text x="64" y="68" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="34" font-weight="700">夏の学びが、数字にも表れました</text>
   <text x="64" y="104" fill="#557484" font-family="Noto Sans JP, system-ui, sans-serif" font-size="17">2025年度 中学3年生・同一集団のハレルノート生平均／夏期期間の3回分</text>
   <rect x="64" y="136" width="318" height="176" rx="18" fill="#FFFFFF" stroke="#BBDFF0"/>
   <text x="92" y="178" fill="#004F73" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">平均点差の改善</text>
