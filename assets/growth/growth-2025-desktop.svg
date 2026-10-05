@@ -21,8 +21,8 @@
   <text x="540" y="443" text-anchor="middle" fill="#B42318" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">−11.3点</text>
   <rect x="723" y="235" width="94" height="42" rx="21" fill="#E5F7FF"/>
   <text x="770" y="263" text-anchor="middle" fill="#006699" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">+13.3点</text>
-  <rect x="953" y="168" width="94" height="42" rx="21" fill="#E5F7FF"/>
-  <text x="1000" y="196" text-anchor="middle" fill="#006699" font-family="Noto Sans JP, system-ui, sans-serif" font-size="18" font-weight="700">+28.6点</text>
+  <rect x="920" y="160" width="160" height="54" rx="27" fill="#004F73"/>
+  <text x="1000" y="197" text-anchor="middle" fill="#FFFFFF" font-family="Noto Sans JP, system-ui, sans-serif" font-size="30" font-weight="700">+28.6点</text>
   <text x="540" y="500" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">7月19日</text>
   <text x="770" y="500" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">8月6日</text>
   <text x="1000" y="500" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="16" font-weight="700">8月24日</text>

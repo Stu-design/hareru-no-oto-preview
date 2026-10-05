@@ -22,8 +22,8 @@
   <text x="56" y="403" text-anchor="middle" fill="#B42318" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">−11.3点</text>
   <rect x="109" y="264" width="70" height="30" rx="15" fill="#E5F7FF"/>
   <text x="144" y="284" text-anchor="middle" fill="#006699" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">+13.3点</text>
-  <rect x="197" y="224" width="70" height="30" rx="15" fill="#E5F7FF"/>
-  <text x="232" y="244" text-anchor="middle" fill="#006699" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">+28.6点</text>
+  <rect x="176" y="214" width="96" height="40" rx="20" fill="#004F73"/>
+  <text x="224" y="241" text-anchor="middle" fill="#FFFFFF" font-family="Noto Sans JP, system-ui, sans-serif" font-size="19" font-weight="700">+28.6点</text>
   <text x="56" y="446" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">7/19</text>
   <text x="144" y="446" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">8/6</text>
   <text x="232" y="446" text-anchor="middle" fill="#12354A" font-family="Noto Sans JP, system-ui, sans-serif" font-size="13" font-weight="700">8/24</text>
